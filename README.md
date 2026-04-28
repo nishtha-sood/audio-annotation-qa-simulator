@@ -1,4 +1,4 @@
-# 🎧 Audio Annotation QA Simulator
+# Audio Annotation QA Simulator
 ### Portfolio Project — Nishtha Sood
 
 A production-grade simulation of an **annotation quality assurance pipeline** for audio content — directly replicating the workflows used by ML/AI-driven platforms like Spotify's Annotation Platform Ops team.
@@ -90,14 +90,6 @@ spotify_annotation_qa/
 ├── requirements.txt
 └── README.md
 ```
-
----
-
-## Resume Bullet
-
-> Built an **Audio Annotation QA Simulator** in Python (Streamlit, scikit-learn, Plotly) replicating ML annotation quality workflows; implemented **inter-annotator agreement scoring** (Cohen's κ, Fleiss' κ), **edge case detection and routing**, annotator performance dashboards, and structured QA reporting pipelines across 500+ labeled audio tracks — directly modeling the human-in-the-loop data quality processes used at AI-driven audio platforms.
-
----
 
 ## Skills Demonstrated
 
