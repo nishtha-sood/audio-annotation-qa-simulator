@@ -1,7 +1,7 @@
 # Audio Annotation QA Simulator
 ### Portfolio Project — Nishtha Sood
 
-A production-grade simulation of an **annotation quality assurance pipeline** for audio content — directly replicating the workflows used by ML/AI-driven platforms like Spotify's Annotation Platform Ops team.
+A production-grade simulation of an **annotation quality assurance pipeline** for audio content.
 
 ---
 
