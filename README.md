@@ -96,5 +96,3 @@ spotify_annotation_qa/
 `Python` · `Pandas` · `scikit-learn` · `Streamlit` · `Plotly` · `Statistical Analysis` · `Data Quality` · `QA Frameworks` · `Inter-Annotator Agreement` · `Ground Truth Definition` · `Human-in-the-Loop` · `ML Lifecycle` · `SQL-ready Data Export` · `Cross-functional Communication`
 
 ---
-
-*Built by Nishtha Sood as a portfolio project for the Spotify Annotation QA Analyst role.*
